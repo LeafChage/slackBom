@@ -6,7 +6,7 @@ class Bom
       attr_reader :count, :x, :y
 
       def initialize(x, y)
-            @count = 5
+            @count = 10
             @x = x
             @y = y
             @@count_bom_in_field += 1

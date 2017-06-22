@@ -134,7 +134,7 @@ class Field
             if who == PLAYER
                   player.delete()
             elsif who == ENEMY
-                  player delete()
+                  enemy.delete()
             end
       end
 
